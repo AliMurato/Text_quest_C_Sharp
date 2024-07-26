@@ -1,0 +1,35 @@
+﻿<Window x:Class="CoffeeShopSimulator.ResultsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Game Results" Height="720" Width="1280"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        ResizeMode="NoResize">
+    <Grid>
+        <!-- Window background -->
+        <Grid.Background>
+            <ImageBrush x:Name="final_background_PNG" 
+                    ImageSource="pack://application:,,,/images/final_background.PNG"/>
+        </Grid.Background>
+
+        <!-- Game record -->
+        <StackPanel VerticalAlignment="Top" Width="150" Margin="565,485,565,0">
+            <TextBlock x:Name="NicknameText" Text="Nickname: " TextAlignment="Left"
+               Foreground="White" FontSize="18"/>
+            <TextBlock x:Name="DateText" Text="Date: " TextAlignment="Left"
+               Foreground="White" FontSize="18"/>
+            <TextBlock x:Name="EndingText" Text="Ending: " TextAlignment="Left"
+               Foreground="White" FontSize="18"/>
+            <TextBlock x:Name="MoneyText" Text="Money: " TextAlignment="Left"
+               Foreground="White" FontSize="18"/>
+        </StackPanel>
+
+        <!-- Prompt to press enter to go to the game menu -->
+        <StackPanel VerticalAlignment="Top" Margin="462,647,462,0">
+            <TextBlock x:Name="pressEnter" Text="Press enter to go to the menu ... " TextAlignment="Left"
+                Foreground="White" FontSize="25 "/>
+        </StackPanel>
+    </Grid>
+</Window>
+
+

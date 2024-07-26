@@ -1,0 +1,59 @@
+﻿<Window x:Class="CoffeeShopSimulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Coffee Shop Simulator" Height="720" Width="1280"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <!-- Background of the main window -->
+        <Grid.Background>
+            <ImageBrush x:Name="menu_background_PNG" 
+                        ImageSource="pack://application:,,,/images/menu_background.PNG"/>
+        </Grid.Background>
+
+        <!-- Main menu with buttons -->
+        <StackPanel VerticalAlignment="Center" x:Name="MenuStackPanel">
+            <Button Name="StartGameButton" Content="- Start -" Height="30" Margin="10" Width="500" Click="StartGameButton_Click" FontSize="18"/>
+            <Button Name="HistoryButton" Content="- History- " Height="30" Margin="10" Width="500" Click="HistoryButton_Click" FontSize="18"/>
+            <Button Name="InformationButton" Content="- Instruction -" Height="30" Margin="10" Width="500" Click="InstructionButton_Click" FontSize="18"/>
+            <Button Name="ExitButton" Content="- Exit -" Height="30" Margin="10" Width="500" Click="ExitButton_Click" FontSize="18"/>
+        </StackPanel>
+
+        <!-- Panel for entering a nickname -->
+        <StackPanel x:Name="NicknameEntryPanel" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Collapsed">
+            <!-- Text prompt for entering a nickname -->
+            <TextBlock x:Name="NicknamePrompt" Text="Enter your nickname" TextAlignment="Center"
+               Foreground="White" FontSize="18">
+                <TextBlock.Effect>
+                    <DropShadowEffect Color="Black" Direction="320" ShadowDepth="2" BlurRadius="4" Opacity="0.8"/>
+                </TextBlock.Effect>
+            </TextBlock>
+            <!-- Field for entering a nickname -->
+            <TextBox x:Name="NicknameTextBox" Width="200" Height="30" Margin="0,10,0,0" TextChanged="NicknameTextBox_TextChanged" KeyDown="NicknameTextBox_KeyDown"/>
+        </StackPanel>
+
+        <!-- Records table -->
+        <StackPanel x:Name="HistoryPanel" Visibility="Collapsed" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <DataGrid x:Name="RecordsDataGrid" AutoGenerateColumns="True" Height="400" Width="500"/>
+            <Button Content="- Clear History -" Height="30" Margin="10" Width="500" FontSize="18" Click="ClearHistory_Click"/>
+            <Button Content="- Back to Menu -" Height="30" Margin="10" Width="500" FontSize="18" Click="BackToMenu_Click"/>
+        </StackPanel>
+
+        <!-- Game instructions -->
+        <StackPanel x:Name="InstructionPanel" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Collapsed">
+            <Image x:Name="InstructionImage" Source="pack://application:,,,/images/instruction.PNG" Height="450" Width="800"/>
+            <Button Content="- Back to Menu -" Height="30" Margin="10" Width="500" FontSize="18" Click="BackToMenu_Click"/>
+        </StackPanel>
+
+        <!-- Text describing the project -->
+        <StackPanel Margin="0,0,104,0" HorizontalAlignment ="Right" VerticalAlignment="Bottom" Height="98" Width="465">
+            <TextBlock x:Name="NicknameText" Text="About the project:" TextAlignment="Left"
+                Foreground="White" FontSize="18"/>
+            <TextBlock x:Name="DateText" Text=" | Game: 'Dream Cafe' (management simulator)" TextAlignment="Left"
+                Foreground="White" FontSize="18"/>
+            <TextBlock x:Name="EndingText" Text=" | Student: Ali Khudaimuratov (2nd year)" TextAlignment="Left"
+                Foreground="White" FontSize="18"/>
+            <TextBlock x:Name="MoneyText" Text=" | CZU FEM, Informatics, Component Software Engineering" TextAlignment="Left"
+                 Foreground="White" FontSize="18"/>
+        </StackPanel>
+    </Grid>
+</Window>

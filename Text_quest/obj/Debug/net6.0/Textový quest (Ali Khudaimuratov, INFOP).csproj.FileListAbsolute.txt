@@ -1,0 +1,86 @@
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.AssemblyReference.cache
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).AssemblyInfoInputs.cache
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).AssemblyInfo.cs
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.CoreCompileInputs.cache
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).exe
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).deps.json
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).runtimeconfig.json
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).dll
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).pdb
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).dll
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\refint\Textový quest (Ali Khudaimuratov, INFOP).dll
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).pdb
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).genruntimeconfig.cache
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\ref\Textový quest (Ali Khudaimuratov, INFOP).dll
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\CsvHelper.dll
+D:\C_sharp_projects\Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.CopyComplete
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).exe
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).deps.json
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).runtimeconfig.json
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).dll
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).pdb
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\CsvHelper.dll
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.AssemblyReference.cache
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).GeneratedMSBuildEditorConfig.editorconfig
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).AssemblyInfoInputs.cache
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).AssemblyInfo.cs
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.CoreCompileInputs.cache
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.CopyComplete
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).dll
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\refint\Textový quest (Ali Khudaimuratov, INFOP).dll
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).pdb
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).genruntimeconfig.cache
+D:\ALI\Учеба\Университет\1 курс\2 sem\Programování\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\ref\Textový quest (Ali Khudaimuratov, INFOP).dll
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).exe
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).deps.json
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).runtimeconfig.json
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).dll
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).pdb
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\bin\Debug\net6.0\CsvHelper.dll
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.AssemblyReference.cache
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).GeneratedMSBuildEditorConfig.editorconfig
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).AssemblyInfoInputs.cache
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).AssemblyInfo.cs
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.CoreCompileInputs.cache
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.CopyComplete
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).dll
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\refint\Textový quest (Ali Khudaimuratov, INFOP).dll
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).pdb
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).genruntimeconfig.cache
+E:\ALI\Учеба\Университет\Work\Projects\(finale) Textový quest (Ali Khudaimuratov, INFOP)\obj\Debug\net6.0\ref\Textový quest (Ali Khudaimuratov, INFOP).dll
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).exe
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).deps.json
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).runtimeconfig.json
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).dll
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).pdb
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\bin\Debug\net6.0\CsvHelper.dll
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.AssemblyReference.cache
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).GeneratedMSBuildEditorConfig.editorconfig
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).AssemblyInfoInputs.cache
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).AssemblyInfo.cs
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.CoreCompileInputs.cache
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\obj\Debug\net6.0\Textový .C4E80259.Up2Date
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).dll
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\obj\Debug\net6.0\refint\Textový quest (Ali Khudaimuratov, INFOP).dll
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).pdb
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).genruntimeconfig.cache
+E:\ALI\Учеба\Университет\Work\Projects\Text_quest_(Ali_Khudaimuratov)\obj\Debug\net6.0\ref\Textový quest (Ali Khudaimuratov, INFOP).dll
+C:\Projects\Text_quest\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).exe
+C:\Projects\Text_quest\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).deps.json
+C:\Projects\Text_quest\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).runtimeconfig.json
+C:\Projects\Text_quest\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).dll
+C:\Projects\Text_quest\bin\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).pdb
+C:\Projects\Text_quest\bin\Debug\net6.0\CsvHelper.dll
+C:\Projects\Text_quest\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.AssemblyReference.cache
+C:\Projects\Text_quest\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Text_quest\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).AssemblyInfoInputs.cache
+C:\Projects\Text_quest\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).AssemblyInfo.cs
+C:\Projects\Text_quest\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).csproj.CoreCompileInputs.cache
+C:\Projects\Text_quest\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).sourcelink.json
+C:\Projects\Text_quest\obj\Debug\net6.0\Textový .C4E80259.Up2Date
+C:\Projects\Text_quest\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).dll
+C:\Projects\Text_quest\obj\Debug\net6.0\refint\Textový quest (Ali Khudaimuratov, INFOP).dll
+C:\Projects\Text_quest\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).pdb
+C:\Projects\Text_quest\obj\Debug\net6.0\Textový quest (Ali Khudaimuratov, INFOP).genruntimeconfig.cache
+C:\Projects\Text_quest\obj\Debug\net6.0\ref\Textový quest (Ali Khudaimuratov, INFOP).dll
