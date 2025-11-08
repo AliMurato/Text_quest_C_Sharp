@@ -47,6 +47,26 @@ After every correct answer, the player can choose to continue or quit — quitti
 
 When the game ends, results are saved in a CSV file (```GameResults.csv```):
 
+## Building the project
+
+Option A: Using dotnet CLI
+
+From the project root:
+
+```dotnet restore```
+
+```dotnet build```
+
+After a successful build, the executable is located at:
+```bin/Debug/net8.0/TextQuest.exe```
+(or bin/Release/net8.0 if built in Release configuration).
+
+Option B: Using Visual Studio
+1. Open TextQuest.sln.
+2. Select configuration Debug or Release.
+3. Build → Build Solution.
+4. The output .exe will be placed in bin/<Config>/net8.0/.
+
 ## Class Structure
 
 The project consists of three main classes:
