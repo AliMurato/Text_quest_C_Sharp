@@ -196,22 +196,22 @@ TextQuest/
 ## Screenshots
 
 ### Main Menu
-![Menu](/Screenshots/Menu.png)
+![Menu](/Screenshots/Menu.PNG)
 
 ### Instruction
-![Instruction](/Screenshots/Instruction.png)
+![Instruction](/Screenshots/Instruction.PNG)
 
 ### Gameplay
-![Gameplay](/Screenshots/GamePlay.png)
+![Gameplay](/Screenshots/GamePlay.PNG)
 
 ### Results
-![Results screen](/Screenshots/Results.png)
+![Results screen](/Screenshots/Results.PNG)
 
 ### Good ending
-![Good ending](/Screenshots/GoodEnding.png)
+![Good ending](/Screenshots/GoodEnding.PNG)
 
 ### ControlKeys
-![Control keys](/Screenshots/ControlKeys.png)
+![Control keys](/Screenshots/ControlKeys.PNG)
 
 ### Answers
-![Answers](/Screenshots/Answers.png)
+![Answers](/Screenshots/Answers.PNG)
