@@ -140,7 +140,7 @@
                 "\n About the project:" +
                 "\n| Text quest" +
                 "\n| Student: Ali Khudaimuratov" +
-                "\n| Programming - INFO2");
+                "\n| Programming - CZU FEM, Informatics");
         }
 
         static void Settings()  // delete game results, control keys, answers to riddles

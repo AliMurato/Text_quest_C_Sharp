@@ -192,3 +192,26 @@ TextQuest/
 - Answers are normalized to lowercase to prevent mismatches.
 
 - The sixth riddle accepts both “emptiness” and a blank input (```string.IsNullOrWhiteSpace(answer)```).
+
+## Screenshots
+
+### Main Menu
+![Menu](/Screenshots/Menu.png)
+
+### Instruction
+![Instruction](/Screenshots/Instruction.png)
+
+### Gameplay
+![Gameplay](/Screenshots/GamePlay.png)
+
+### Results
+![Results screen](/Screenshots/Results.png)
+
+### Good ending
+![Good ending](/Screenshots/GoodEnding.png)
+
+### ControlKeys
+![Control keys](/Screenshots/ControlKeys.png)
+
+### Answers
+![Answers](/Screenshots/Answers.png)
